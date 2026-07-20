@@ -95,15 +95,6 @@ I am an **AI Engineer** focused on reliable, scalable, and production-oriented i
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadhemBenhadjali&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" alt="Nadhem's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadhemBenhadjali&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8" alt="Nadhem's most used languages" width="41%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
