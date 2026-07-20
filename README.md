@@ -62,23 +62,6 @@
   <a href="https://www.tableau.com/"><img src="images (1).png" alt="Tableau" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
----
-
-## 🎓 Education, Awards & Community
-
-- 🎓 **Engineering Diploma in Computer Science**, National School of Computer Sciences — ENSI `2023–2026`
-- 🥇 **1st Place**, Go Data Science × PwC Kaggle Competition — among 350 teams
-- 🥇 **1st Place**, Orange AI Hackathon — among 44 teams
-- 🏅 Winner of **9+ AI and Data Science hackathons**
-- 👨‍🏫 **Machine Learning Instructor**, IEEE ENSI Student Branch — delivered 9 workshops to 70+ members
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arabic-Native-0891B2?style=flat-square" alt="Arabic native" />
-  <img src="https://img.shields.io/badge/French-Fluent-2563EB?style=flat-square" alt="French fluent" />
-  <img src="https://img.shields.io/badge/English-Fluent-7C3AED?style=flat-square" alt="English fluent" />
-</p>
-
----
 
 ##  What I Build
 
