@@ -16,17 +16,6 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20Opportunities-10B981?style=flat-square" alt="Open to AI engineering opportunities" />
 </p>
 
----
-
-##  What I Build
-
-I am an **AI Engineer** focused on reliable, scalable, and production-oriented intelligent systems. My work combines **large language models, retrieval-augmented generation, knowledge graphs, multi-agent workflows, Arabic NLP, forecasting, and MLOps**.
-
--  Build and evaluate **Generative AI** applications
-- Design **multi-agent systems** with orchestration, guardrails, and tool use
-- Develop AI solutions for **Arabic language and cultural contexts**
-- Create end-to-end **deep learning and time-series forecasting pipelines**
-- Deploy AI services with **FastAPI, Docker, vector databases, and cloud integrations**
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathons%20Won-9%2B-22D3EE?style=for-the-badge&logo=target&logoColor=black" alt="9+ hackathons won" />
   <img src="https://img.shields.io/badge/ML%20Workshops-9%20Sessions-F59E0B?style=for-the-badge&logo=ieee&logoColor=white" alt="9 machine learning workshops" />
@@ -94,6 +83,16 @@ I am an **AI Engineer** focused on reliable, scalable, and production-oriented i
 
 ---
 
+##  What I Build
+
+I am an **AI Engineer** focused on reliable, scalable, and production-oriented intelligent systems. My work combines **large language models, retrieval-augmented generation, knowledge graphs, multi-agent workflows, Arabic NLP, forecasting, and MLOps**.
+
+-  Build and evaluate **Generative AI** applications
+- Design **multi-agent systems** with orchestration, guardrails, and tool use
+- Develop AI solutions for **Arabic language and cultural contexts**
+- Create end-to-end **deep learning and time-series forecasting pipelines**
+- Deploy AI services with **FastAPI, Docker, vector databases, and cloud integrations**
+---
 ## 🤝 Let's Connect
 
 <p align="center">
