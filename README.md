@@ -59,8 +59,7 @@
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL and PostgreSQL" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="58" height="58" /></a>
+  <a href="https://www.tableau.com/"><img src="images (1).png" alt="Tableau" width="58" height="58" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
