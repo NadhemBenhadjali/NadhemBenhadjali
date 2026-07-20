@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer · Generative AI · Multi-Agent Systems · Arabic NLP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+production-ready+Generative+AI;Designing+LLM%2C+RAG+%26+GraphRAG+systems;Creating+multi-agent+AI+applications;Turning+machine+learning+research+into+impact" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+intelligent+retrieval+systems;Developing+machine+learning+solutions;Improving+your+deep+learning+models;Turning+AI+research+into+real-world+impact" alt="Typing introduction" /> 
 </p>
 
 <p align="center">
