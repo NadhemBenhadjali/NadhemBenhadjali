@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/ML%20Workshops-9%20Sessions-F59E0B?style=for-the-badge&logo=ieee&logoColor=white" alt="9 machine learning workshops" />
 </p>
 
-
----
 ## 🧰 Technology Toolkit
 
 ### Generative AI, Agents & Knowledge Systems
