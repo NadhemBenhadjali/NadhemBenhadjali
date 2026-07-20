@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NadhemBenhadjali&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Location-Monastir%2C%20Tunisia-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20Opportunities-10B981?style=flat-square" alt="Open to AI engineering opportunities" />
 </p>
